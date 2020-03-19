@@ -1,14 +1,12 @@
 {
-    "home": {
-        "get": {
-            "data": [
-                {"id":1,"name": "Steve"}
-            ]
-        },
-        "post": {
-            "data": [
-                {"id":1,"name": "Steve French"}
-            ]
-        }
-    }
+    "name": "Otilia Pedidos",
+    "telephone": "2213149055",
+    "logo_url": "#",
+    "products": [
+        {"id":1, "name": "burge 1", "description": "burger 1 description", "image_url": "#", "price": 230.00},
+        {"id":2, "name": "burge 2", "description": "burger 2 description", "image_url": "#", "price": 200.00},
+        {"id":3, "name": "burge 3", "description": "burger 3 description", "image_url": "#", "price": 250.00},
+        {"id":4, "name": "burge 4", "description": "burger 4 description", "image_url": "#", "price": 260.00},
+        {"id":5, "name": "papas", "description": "papas description", "image_url": "#", "price": 80.00}
+    ]
 }
